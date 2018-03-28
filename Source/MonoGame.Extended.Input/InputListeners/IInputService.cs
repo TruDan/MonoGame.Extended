@@ -1,4 +1,6 @@
-﻿namespace MonoGame.Extended.InputListeners
+﻿using MonoGame.Extended.Input.InputListeners;
+
+namespace MonoGame.Extended.InputListeners
 {
     public interface IInputService
     {
